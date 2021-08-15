@@ -10,6 +10,12 @@
 
 git status 
 
+If we need to add changes then use - git add .
+then - git commit  -m "ssss" -m "gggg"
+
+Then finally use - git push 
+
 We need to commit  it by using git commit -m "some message" -m " some message for description"
  
  remotely add git to local machine by adding git remote add origin ssh key 
+
