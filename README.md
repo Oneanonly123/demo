@@ -1,1 +1,15 @@
-README.md
+ # We are adding git from locally to git repo 
+
+ Some Description 
+
+ # We have to initialize a git first  using git init 
+
+ # we can check the status by using git status 
+
+ we need to add the git README.md using git add name 
+
+git status 
+
+We need to commit  it by using git commit -m "some message" -m " some message for description"
+ 
+ remotely add git to local machine by adding git remote add origin ssh key 
