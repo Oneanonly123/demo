@@ -22,5 +22,5 @@ We need to commit  it by using git commit -m "some message" -m " some message fo
 git checkout <branchname> is used to  switch to branch with <branch name>
 git checkout -b <branchname> is used to create and checkout a branch wit name <branchname>
 
-    
+
 
